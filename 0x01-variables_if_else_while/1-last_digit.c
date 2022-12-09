@@ -3,8 +3,10 @@
 #include <time.h>
 
 /**
+ * main - Entry point
  *
- *
+ * Description: Check the last digit of the number
+ * Return: Zero value to succesful
  */
 
 int main(void)
