@@ -2,7 +2,7 @@
 /*
  *
  *
- *
+ *main - function prits putchar
  *
  *
  */
