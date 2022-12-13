@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /*
- *main - function prits putchar
- *Return: Always 0 
+ *main - function prits _putchar
+ *Return:Always 0
  */
 int main(void)
 {
