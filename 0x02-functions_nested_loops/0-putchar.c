@@ -1,11 +1,8 @@
 #include <stdio.h>
 
 /*
- *
- *
  *main - function prits putchar
- *
- * Return 0
+ *Return: Always 0 
  */
 int main(void)
 {
